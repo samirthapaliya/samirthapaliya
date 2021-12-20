@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samirthapaliya
-- 👀 I’m interested in playing video games
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Web Application
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning WebApi & Flutter
+- 💞️ I’m looking to collaborate on Web & Android Application
 - 📫 How to reach me samirthapaliya@hotmail.com
 
 <!---
