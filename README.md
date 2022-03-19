@@ -62,7 +62,7 @@ Here are the Projects on which I am working and I have contributed
 -   [samir thapaliya](https://samirthapaliya.com.np/) - My Website.
 -   [Others are not live you can see in public ripo]
 
-<summary>📜 My Statistics</summary>
+##📜 My Statistics
 <div align='center'>
 <img src='https://github-profile-trophy.vercel.app/?username=samirthapaliya&row=3&column=3&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=15&margin-h=15' alt='samirthapaliya' />
 <img src='https://github-readme-stats.vercel.app/api?username=samirthapaliya&show_icons=true&locale=en&layout=compact&theme=blue-green' alt='samirthapaliya' />
